@@ -1,9 +1,9 @@
-import ResponsiveDashboard from "./components/responsive/ResponsiveDashboard";
+import ResponsiveDashboardSkeleton from "./components/responsive/ResponsiveDashboardSkeleton";
 
 export default function App() {
   return (
     <>
-      <ResponsiveDashboard />
+      <ResponsiveDashboardSkeleton />
     </>
   );
 }
